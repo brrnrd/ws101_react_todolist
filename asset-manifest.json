@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101_react_todolist/static/css/main.e8871db9.css",
+    "main.js": "/ws101_react_todolist/static/js/main.bfad23bc.js",
+    "index.html": "/ws101_react_todolist/index.html",
+    "main.e8871db9.css.map": "/ws101_react_todolist/static/css/main.e8871db9.css.map",
+    "main.bfad23bc.js.map": "/ws101_react_todolist/static/js/main.bfad23bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8871db9.css",
+    "static/js/main.bfad23bc.js"
+  ]
+}
